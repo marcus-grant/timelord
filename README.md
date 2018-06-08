@@ -5,6 +5,8 @@
 * Time tracking features in future where *pomodoros* are labeled, time stamped and stored in remote databases
 * Good candidate for progressive web app
 
+Please Note, this is a mirror to a gitlab [repository](https://gitlab.com/marcus-grant/timelord.git)
+
 
 First Steps
 --------------
